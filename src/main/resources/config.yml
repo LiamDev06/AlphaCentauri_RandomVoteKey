@@ -1,0 +1,17 @@
+# The command the console performs to give a key
+giveKeyCommand: 'givekey {player}'
+#
+# If the public should send out a public announcement to all players when someones receives a key
+announcePublic: true
+#
+# If the previous is set to true, whatever is entered here will be announced
+announcePublicMessage: "&r\n&e&lFree Crate Key Event\n&b{player} &freceived vote key for being online!\n&fEvery 15 minutes, one random player gets &afree key&f.\n&r"
+#
+# The message the player that 'won' the giveaway will see
+keyReceivedMessage: "&aYou received &evote key &afor being online!"
+#
+# The text that will appear on the boss bar. The boss bar only appeas if announcePublic is set to true.
+bossBarText: "&a&lGIVING FREE KEY TO RANDOM PLAYER"
+#
+# Enter in minutes, how often a key will be given out
+timeInterval: 15

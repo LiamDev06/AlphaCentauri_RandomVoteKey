@@ -1,0 +1,7 @@
+name: RandomVoteKey
+version: ${project.version}
+main: dev.alphacentauri.randomvotekey.RandomVoteKeyPlugin
+api-version: 1.18
+authors: [ LiamHBest ]
+description: Gives a random vote key to a random player every 15 minutes. Made for Alpha Centauri.
+website: https://dynamicbyte.de
